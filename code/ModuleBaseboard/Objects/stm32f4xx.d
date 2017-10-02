@@ -1,0 +1,11 @@
+.\objects\stm32f4xx.o: User\BSP\STM32F4xx_ModuleBaseboard\stm32f4xx.c
+.\objects\stm32f4xx.o: User\BSP\STM32F4xx_ModuleBaseboard\stm32f4xx.h
+.\objects\stm32f4xx.o: d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h
+.\objects\stm32f4xx.o: .\RTE\Device\STM32F429IETx\STCubeGenerated\Inc\stm32f4xx_hal_conf.h
+.\objects\stm32f4xx.o: .\RTE\Device\STM32F429IETx\STCubeGenerated\Inc\main.h
+.\objects\stm32f4xx.o: d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h
+.\objects\stm32f4xx.o: d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h
+.\objects\stm32f4xx.o: .\User\BSP\STM32F4xx_ModuleBaseboard\stm32f4xx.h
+.\objects\stm32f4xx.o: d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h
+.\objects\stm32f4xx.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\stm32f4xx.o: d:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h

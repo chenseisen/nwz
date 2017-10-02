@@ -1,0 +1,4 @@
+load STM32F429IETx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path C:\Users\GPT-726.AD\Desktop\ModuleBaseboard\RTE\Device\STM32F429IETx\ 
